@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - A proogram that prints the size of various computer types
+ * Description-
  * Return 0 (Success)
  */
 int main(void)
