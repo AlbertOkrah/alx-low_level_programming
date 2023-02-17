@@ -1,5 +1,7 @@
 #include <unistd.h>
-/**main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19", followed by a newline
+/**
+ * main -and that piece of art is useful
+ * - Dora Korpar, 2015-10-19, followed by a newline
  * Return: Always 1.
  */
 int main(void)
